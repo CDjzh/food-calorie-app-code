@@ -16,7 +16,7 @@ CV＋LLM
 - train: 919
 - valid: 31
 - test: 21
-说明：数据集来自公开平台（Roboflow导出），本仓库不包含完整原始数据。
+说明：数据集来自公开平台（Roboflow导出），数据网址(https://universe.roboflow.com/hit-pwt8p/chinese-food)
 ## 3. Environment
 建议环境：
 - Python 3.8+
